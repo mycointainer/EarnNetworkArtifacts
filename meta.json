@@ -1,0 +1,7 @@
+{
+  "name": "Earn Network",
+  "description": "The end-game dApp for all crypto investments.",
+  "ticker": "EARN",
+  "homepage": "https://earn.network/",
+  "extended": "https://raw.githubusercontent.com/mycointainer/EarnNetworkArtifacts/main/extended-metadata.json"
+}
