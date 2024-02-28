@@ -1,0 +1,18 @@
+{
+    "verification":"2e81e4e663166b54d9",
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/mycointainer/EarnNetworkArtifacts/main/Earn64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/mycointainer/EarnNetworkArtifacts/main/Earn.png",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "https://twitter.com/itsearnnetwork",
+            "telegram_handle": "https://t.me/itsearnnetwork",
+            "youtube_handle": "https://www.youtube.com/@Earn-Network",
+            "discord_handle": "https://discord.gg/zAxVTGr648",
+            "linkedin_handle": "https://www.linkedin.com/company/earnnetwork/"
+        },
+        "company": {
+            "name": "Earn Network",
+        }
+    }
+}
